@@ -1,7 +1,7 @@
-# First_Project
-This Is my First Project
+# Python_Projects
+This Is my Projects using Python
 <br>
-Author- Shubham (Im Shubham)
+Author- Shubham Vishwakarma
 
 
 
